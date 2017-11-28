@@ -1,0 +1,141 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>POL2081:Seminar 3</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/solarized.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section><h2>POL2081 seminar: Univariate Analysis</h2>
+					<section><h1>Week 5: Bivariate Regression</h1></section>
+					<section>
+						<h2>Toady</h2>
+						<ul>
+							<li>Goodwin, M. J., & Heath, O. (2016). The 2016 Referendum, Brexit and the Left Behind: An Aggregate-level Analysis of the Result.</li>
+							<li>Clarke, H. D., Goodwin, M., & Whiteley, P. (2017). Why Britain voted For brexit: An individual-level analysis of the 2016 referendum vote.</li>
+							<li>Media critique</li>
+						</ul>
+					</section>
+				</section>
+			<section>
+			<h3>Goodwin, M. J., & Heath, O. (2016). The 2016 Referendum, Brexit and the Left Behind: An Aggregate-level Analysis of the Result.</h3>
+				<section>
+					<img src="img/Turnout-multivariate.svg" height="500">
+										<ul>
+						<li>In your own words, describe what this tell you?</li>
+						<li>How well do you think this linear regression describes the data? Why/why not?</li>
+						<li>Would you say this is statistically significant?</li>
+					</ul>
+				</section>
+				<section>
+					<img src="img/education and age scatterplots.svg" height="500">
+					<ul>
+						<li>In your own words, describe what this tell you?</li>
+						<li>How well do you think this linear regression describes the data? Why/why not?</li>
+						<li>Would you say this is statistically significant?</li>
+					</ul>
+				</section>				
+				<section>
+					<img src="img/multivariateCouncils.svg" height="500">
+					<ul>
+						<li>In your own words, describe what this tell you?</li>
+						<li>How well do you think this linear regression describes the data? Why/why not?</li>
+						<li>Would you say this is statistically significant?</li>
+					</ul>
+				</section>
+				<section>
+					<img src="immigration-scatterplots.svg" height="500">
+					<ul>
+						<li>In your own words, describe what this tell you?</li>
+						<li>How well do you think this linear regression describes the data? Why/why not?</li>
+						<li>Would you say this is statistically significant?</li>
+					</ul>
+				</section>
+			</section>
+			<section>
+			<h3>Clarke, H. D., Goodwin, M., & Whiteley, P. (2017). Why Britain voted For brexit: An individual-level analysis of the 2016 referendum vote.</h3>
+				<section>
+					<img src="img/ClarkeVoteLeave.svg" height="500">
+										<ul>
+						<li>In your own words, describe what this tell you?</li>
+						<li>How well do you think this linear regression describes the data? Why/why not?</li>
+						<li>Would you say this is statistically significant?</li>
+					</ul>
+				</section>
+				<section>
+					<img src="img/ClarkeBenefitsCosts.svg" height="500">
+					<ul>
+						<li>In your own words, describe what this tell you?</li>
+						<li>How well do you think this linear regression describes the data? Why/why not?</li>
+						<li>Would you say this is statistically significant?</li>
+					</ul>
+				</section>				
+				<section>
+					<img src="img/ClarkeRisk.svg" height="500">
+					<ul>
+						<li>In your own words, describe what this tell you?</li>
+						<li>How well do you think this linear regression describes the data? Why/why not?</li>
+						<li>Would you say this is statistically significant?</li>
+					</ul>
+				</section>
+			</section>
+				
+				<section>
+					<h1>Media Critique</h1>
+					<ul>
+						<li>Pair up with the person next to you.</li>
+						<li>Person 1: Explain (very) briefly 1) what your article is about, and 2) what you want to critique in it.</li>
+						<li>Person 2: Write down what will be critiqued </li>
+						<li>Switch roles</li>
+						<li>Put all post-it notes up on wall.</li>						
+					</ul>
+				</section>
+				
+				
+				<section>
+					<h1>Questions?</h1>
+					<h2>Next seminar: Multivariate Regressions</h2>
+				</section>
+				
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				width: "100%", 
+				height: "100%",
+				margin: 0.1,
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>

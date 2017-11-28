@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg8786"
+   viewBox="0 0 411.20861 541.55152"
+   height="152.83788mm"
+   width="116.05221mm">
+  <defs
+     id="defs8788" />
+  <metadata
+     id="metadata8791">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(22.566296,27.253476)"
+     id="layer1">
+    <path
+       d="m -18.993944,-1.7262351 403.794994,0 0,-0.637738 -403.794994,0 0,0.637738 z"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path54" />
+    <path
+       d="m -18.993944,443.80876 403.794994,0 0,-0.63781 -403.794994,0 0,0.63781 z"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path56" />
+    <path
+       d="m -18.993944,24.422515 403.794994,0 0,-0.283438 -403.794994,0 0,0.283438 z"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path58" />
+    <text
+       y="-16.112608"
+       x="-18.993692"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP0068;-inkscape-font-specification:AdvP0068;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text60">
+      <tspan
+         x="-18.993692 -13.473763 -7.9538279 -1.9139053 0.78606117 8.5729647"
+         y="-16.112608"
+         id="tspan62">Table1</tspan>
+    </text>
+    <text
+       y="-16.112608"
+       x="19.060827"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text64">
+      <tspan
+         x="19.060827 24.580759 26.760736 32.100666 37.620598 45.950493 47.974472 52.974411 57.399353 59.579323 65.099258 70.439194 72.619156 78.163094 83.16301 88.682961 93.540901 95.720871 100.06081 103.91077 106.09074 112.10766 117.6276 123.16253 126.49249 131.49242 135.96237 139.10732 144.62726 147.95721 153.98914 158.98906 162.31903 165.46899 170.46893 174.93887 178.26883 180.2798 185.79973 193.46063 197.93059 203.4505 206.64148 208.82144 214.34137 222.01929 225.34923 233.07417 235.25412 240.25407 245.25401 249.51494 256.81387 260.14386 265.66376 272.75867 277.75861"
+         y="-16.112608"
+         id="tspan66">BinomiallogitanalysisoffactorsaffectingvotingtoleavetheEU</tspan>
+    </text>
+    <text
+       y="13.226"
+       x="-18.993692"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP0068;-inkscape-font-specification:AdvP0068;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text68">
+      <tspan
+         x="-18.993692 -13.473763 -9.6238079 -4.1038837 1.9360493 4.6360064 9.0059519 12.855906 18.89583 209.61945 364.17752 369.69745 372.39743 377.91736"
+         y="13.226"
+         id="tspan70">PredictorBS.E.</tspan>
+    </text>
+    <text
+       y="43.202656"
+       x="-18.993692"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text72">
+      <tspan
+         x="-18.993692 -13.473763 -8.4738293 -2.9538968 2.046046 7.5659704 10.895934 14.745891 18.075842 22.54579 28.065714 31.91567 35.245617 41.242558 46.762482 52.368416 54.548386 59.54834 64.548264 69.018219 71.198181 76.718109 84.471024 89.47094"
+         y="43.202656"
+         id="tspan74">Benefts-costsofleavingEU</tspan>
+      <tspan
+         x="-9.0018215 -4.0018787 0.46805844 5.9879923 11.507926 17.027861 25.357748 29.827696 33.021656 35.201633 40.721558 46.241493 51.761421 56.76136 62.281288 66.751236 217.27335 222.79327 225.60324 231.12318 236.64313 242.16304 247.68297 253.20293 359.92657 365.4465 368.2565 373.7764 379.29633"
+         y="55.675495"
+         id="tspan76">Economy-infuence2.509***0.579</tspan>
+      <tspan
+         x="-9.0018215 -6.821846 1.5080498 9.8379469 12.017922 17.537848 20.867811 25.867743 29.197706 31.377672 36.777607 42.297543 45.627495 48.957458 53.95739 57.287354 60.61731 66.137245 69.467209 71.647171 75.497116 217.27335 222.79327 225.60324 231.12318 236.64313 242.16304 247.68297 359.92657 365.4465 368.2565 373.7764 379.29633"
+         y="68.148338"
+         id="tspan78">Immigration-terrorism1.013**0.370</tspan>
+      <tspan
+         x="-18.993692 -13.473763 -11.293788 -7.4438419 -0.14293209 4.8570108 8.7069559 12.556911 17.556852 21.406797 25.256754 33.586662 38.586586 44.106518 47.266479 53.431404 58.95134 64.557251 66.737236 71.737183 76.737106 81.207054 83.387039 88.90696 96.659866 101.65981"
+         y="80.69117"
+         id="tspan80">RiskassessmentsofleavingEU</tspan>
+    </text>
+    <text
+       y="80.69117"
+       x="217.27335"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text86">
+      <tspan
+         x="217.27335 222.79327 225.60324 231.12318 236.64313 242.16304 247.68297 253.20293 359.92657 365.4465 368.2565 373.77643 379.29633"
+         y="80.69117"
+         id="tspan88">0.373***0.062</tspan>
+      <tspan
+         x="-18.993696 -13.993754 -5.663866 -0.14392391 3.1860397 5.3660059 10.88593 16.405874 21.405798 25.793749 29.123713 34.123627 39.123581 43.593529 46.923492 49.103455 54.623383 60.143318 66.187248 69.517197 77.313103 82.313049"
+         y="93.163025"
+         id="tspan90">EmotionalreactionstoEU</tspan>
+    </text>
+    <text
+       y="93.163025"
+       x="217.27335"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text96">
+      <tspan
+         x="217.27335 222.79327 225.60324 231.12318 236.64313 242.16304 247.68297 253.20293 359.92657 365.4465 368.2565 373.77643 379.29633"
+         y="93.163025"
+         id="tspan98">0.304***0.096</tspan>
+      <tspan
+         x="-18.993696 -16.813711 -8.4838238 -2.9639008 2.5560424 5.8860064 9.215951 14.215896 19.735819 24.092775 31.391684 36.91161 42.517536 47.517479 53.037415 56.367363 61.887291 67.407234 74.620155 79.620079 85.745979 87.925972 91.77594 95.625885 101.14581 217.27335 222.79327 225.60324 231.12318 236.64313 242.16304 359.92657 365.4465 368.2565 373.77643 379.29633"
+         y="105.70586"
+         id="tspan100">ImportanceofEuropeasissue0.595*0.270</tspan>
+      <tspan
+         x="-18.993696 -13.993754 -8.9938107 -5.663866 -2.3339036 4.3920183 6.5719843 11.571927 16.571871 22.091795 27.091738 32.667652 34.84763 43.177536 48.177475 53.697411 58.697334"
+         y="118.1787"
+         id="tspan102">Partyleaderimages</tspan>
+      <tspan
+         x="-9.0018215 -2.3418953 2.6580284 10.987935 15.98788 19.317823 24.837767"
+         y="130.65054"
+         id="tspan104">Cameron</tspan>
+    </text>
+    <text
+       y="130.65054"
+       x="217.27335"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text110">
+      <tspan
+         x="217.27335 222.79327 225.60324 231.12318 236.64313 359.92657 365.4465 368.2565 373.77643 379.29633"
+         y="130.65054"
+         id="tspan112">0.0350.056</tspan>
+      <tspan
+         x="-9.0008106 -2.3409035 3.1790397 6.5089846 12.028928 16.498857"
+         y="143.19337"
+         id="tspan114">Corbyn</tspan>
+    </text>
+    <text
+       y="143.19337"
+       x="217.27434"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text120">
+      <tspan
+         x="217.27434 222.79428 225.60425 231.12418 236.64412 359.92755 365.44751 368.25748 373.77744 379.29733"
+         y="143.19337"
+         id="tspan122">0.0470.053</tspan>
+      <tspan
+         x="-8.9998093 -4.5298615 0.47006115 3.8000247 8.7999678 14.319892 217.27534 222.79527 225.60524 231.12517 236.64511 242.16505 247.68495 253.20491 359.92859 365.44852 368.25848 373.77841 379.29837"
+         y="155.66626"
+         id="tspan124">Farage0.191***0.055</tspan>
+      <tspan
+         x="-8.9998093 -5.6698647 -0.14992252 5.3700018 10.889945 14.73989 20.259813 217.27534 222.79527 225.60524 231.12517 236.64511 242.16505 247.68495 253.20491 359.92859 365.44852 368.25848 373.77841 379.29837"
+         y="168.20909"
+         id="tspan126">Johnson0.195***0.056</tspan>
+      <tspan
+         x="-18.991684 -13.991761 -8.9918175 -5.6618538 -2.3318913 -0.15192524 3.6980197 8.6979628 14.217887 18.06785 23.587774 25.653757 31.173681"
+         y="180.68193"
+         id="tspan128">Partisanship:</tspan>
+      <tspan
+         x="-8.9998093 -2.3399022 3.1800411 8.6999655 12.549911 17.549852 20.879816 25.349745 30.349688 33.679653 35.859619 40.329567"
+         y="193.15477"
+         id="tspan130">Conservative</tspan>
+    </text>
+    <text
+       y="193.15477"
+       x="217.27534"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text136">
+      <tspan
+         x="217.27534 222.79527 225.60524 231.12517 236.64511 242.16505 359.92859 365.44852 368.25848 373.77841 379.29831"
+         y="193.15477"
+         id="tspan138">0.570*0.324</tspan>
+      <tspan
+         x="-8.9988079 -4.5288601 0.47106251 5.9910059 11.51093 17.030855"
+         y="205.69762"
+         id="tspan140">Labour</tspan>
+    </text>
+    <text
+       y="205.69762"
+       x="217.27634"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text146">
+      <tspan
+         x="217.27634 222.79628 225.60625 231.12619 236.6461 359.92957 365.44952 368.25946 373.77942 379.29935"
+         y="205.69762"
+         id="tspan148">0.1370.331</tspan>
+      <tspan
+         x="-8.9978065 -4.5278587 -2.347894 3.1720302 8.1719732 11.501937 16.50186 20.907816 27.567724 32.567669 40.897556 46.417488 50.887451 54.217392 59.217339"
+         y="218.17046"
+         id="tspan150">LiberalDemocrat</tspan>
+    </text>
+    <text
+       y="218.17046"
+       x="217.27736"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text156">
+      <tspan
+         x="217.27736 222.79727 225.60724 231.12718 236.64709 359.93057 365.4505 368.2605 373.7804 379.30035"
+         y="218.17046"
+         id="tspan158">0.4200.449</tspan>
+      <tspan
+         x="-8.9968052 -2.3368981 3.8030288 5.982995"
+         y="230.6433"
+         id="tspan160">UKIP</tspan>
+    </text>
+    <text
+       y="230.6433"
+       x="217.27835"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text166">
+      <tspan
+         x="217.27835 222.79829 225.60825 231.12817 236.64812 359.93155 365.45151 368.26147 373.78143 379.30133"
+         y="230.6433"
+         id="tspan168">0.3920.565</tspan>
+      <tspan
+         x="-8.9958134 -3.9958899 2.6640365 217.27835 222.79829 225.60825 231.12817 236.64812 359.93155 365.45151 368.26147 373.78143 379.30133"
+         y="243.18613"
+         id="tspan170">SNP1.3650.739</tspan>
+      <tspan
+         x="-18.987684 -12.327781 -7.327837 -3.9978735 -1.8179084 3.7020156 9.2219591 14.221885 18.64184 20.821806 26.34173 31.341673 36.861618 40.191563 42.371548 45.701492"
+         y="255.65897"
+         id="tspan172">Nationalidentity</tspan>
+      <tspan
+         x="-8.9958134 -3.9958899 1.5240525 7.0439768 9.2239618 11.403928 15.253875 217.27936 222.79929 225.60924 231.12917 236.64911 359.93259 365.45255 368.26248 373.78241 379.30237"
+         y="268.20181"
+         id="tspan174">English0.1840.243</tspan>
+      <tspan
+         x="-8.9958134 -3.9958899 0.47405705 5.9940004 9.323945 12.653909 14.833877 18.68384"
+         y="280.67468"
+         id="tspan176">Scottish</tspan>
+    </text>
+    <text
+       y="280.67468"
+       x="217.27936"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text182">
+      <tspan
+         x="217.27936 222.79929 225.60924 231.12917 236.64911 242.16905 247.68895 359.93259 365.45255 368.26248 373.78241 379.30234"
+         y="280.67468"
+         id="tspan184">1.614**0.550</tspan>
+      <tspan
+         x="-8.994812 0.47505841 5.4750013 7.6549673 11.504931"
+         y="293.14752"
+         id="tspan186">Welsh</tspan>
+    </text>
+    <text
+       y="293.14752"
+       x="217.28035"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text192">
+      <tspan
+         x="217.28035 222.80028 225.61023 231.13016 236.6501 359.93359 365.45352 368.26346 373.78342 379.30334"
+         y="293.14752"
+         id="tspan194">0.2890.591</tspan>
+      <tspan
+         x="-8.9938107 -3.9938872 1.5260552 4.856019 10.375943 15.895869 20.895811 25.895754"
+         y="305.69037"
+         id="tspan196">European</tspan>
+    </text>
+    <text
+       y="305.69037"
+       x="217.28134"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text202">
+      <tspan
+         x="217.28134 222.80128 225.61125 231.1312 236.65109 359.93457 365.45453 368.26447 373.78439 379.30435"
+         y="305.69037"
+         id="tspan204">0.8601.307</tspan>
+      <tspan
+         x="-8.9928093 -1.8129016 1.5170621 7.0369864 12.036929"
+         y="318.16321"
+         id="tspan206">Other</tspan>
+    </text>
+    <text
+       y="318.16321"
+       x="217.28235"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text212">
+      <tspan
+         x="217.28235 222.80228 225.61224 231.13219 236.65213 359.93558 365.45551 368.2655 373.7854 379.30533"
+         y="318.16321"
+         id="tspan214">0.2890.591</tspan>
+      <tspan
+         x="-18.984694 -12.324767 -7.3248425 1.0050629 6.5249872 11.52493 13.704898 19.22484 26.936747 31.406675 36.92662 42.446545 45.776505 50.776428 55.246376"
+         y="330.70605"
+         id="tspan216">Campaigncontact</tspan>
+      <tspan
+         x="-8.9928198 -3.4728758 1.527047 9.8569536 14.856898 17.036863 24.739767 29.209715 34.209648 42.539547 48.059471 53.059402 55.23938 60.7593"
+         y="343.17889"
+         id="tspan218">Remaincampaign</tspan>
+    </text>
+    <text
+       y="343.17889"
+       x="217.28235"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text224">
+      <tspan
+         x="217.28235 222.80228 225.61224 231.13219 236.65213 359.93558 365.45551 368.2655 373.7854 379.30533"
+         y="343.17889"
+         id="tspan226">0.0810.193</tspan>
+      <tspan
+         x="-8.9918079 -4.5218601 0.47806248 5.4780054 9.9479532 17.157866 21.627813 26.627737 34.957645 40.47757 45.477509 47.657486 53.177414 217.28334 222.80328 225.61325 231.13318 236.65312 359.93655 365.45651 368.26648 373.78638 379.30634"
+         y="355.65173"
+         id="tspan228">Leavecampaign0.2750.278</tspan>
+      <tspan
+         x="-18.983683 -13.98376 -8.4638157 -3.9938681 -1.813903 3.7060211 7.035985 12.555909 17.555853 25.885759 31.405684 36.787613 40.117565 45.117516 50.637444 56.157364 58.337341 62.807281"
+         y="368.19461"
+         id="tspan230">Socio-demographics</tspan>
+      <tspan
+         x="-8.9918079 -2.3319008 3.1880424"
+         y="380.66745"
+         id="tspan232">Age</tspan>
+    </text>
+    <text
+       y="380.66745"
+       x="217.28334"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text238">
+      <tspan
+         x="217.28334 222.80328 225.61325 231.13318 236.65312 359.93655 365.45651 368.26648 373.78644 379.30634"
+         y="380.66745"
+         id="tspan240">0.0060.007</tspan>
+      <tspan
+         x="-8.9908066 -2.3308995 3.1890438 5.36901 9.8389578 14.838881 18.168844 22.018789 24.198774 27.528738 34.237648 39.237591 44.757515 50.277443 54.747375 59.747337 63.077286 65.135254 70.655182 217.28435 222.80428 225.61424 231.13417 236.65411 359.93759 365.45752 368.26749 373.78741 379.30737"
+         y="393.21027"
+         id="tspan242">UniversityEducation0.1120.238</tspan>
+      <tspan
+         x="-8.9908066 -1.8108989 3.1890438 8.7089682 14.228892 19.228834 217.28435 222.80428 225.61424 231.13417 236.65411 359.93759 365.45752 368.26749 373.78741 379.30737"
+         y="405.68311"
+         id="tspan244">Gender0.0290.220</tspan>
+      <tspan
+         x="-8.9908066 -3.9908831 1.5290593 5.9990072 8.1789732 13.178916 17.58386 24.243769 26.423735 31.423677 35.273643"
+         y="418.15594"
+         id="tspan246">SocialClass</tspan>
+    </text>
+    <text
+       y="418.15594"
+       x="217.28435"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text252">
+      <tspan
+         x="217.28435 222.80428 225.61424 231.13417 236.65411"
+         y="418.15594"
+         id="tspan254">0.149</tspan>
+    </text>
+    <text
+       y="438.88702"
+       x="228.28534"
+       transform="scale(1.0607253,0.94275114)"
+       style="font-variant:normal;font-weight:normal;font-size:7.07039785px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text256">
+      <tspan
+         x="228.28534"
+         y="438.88702"
+         id="tspan258">†</tspan>
+    </text>
+    <text
+       y="418.155"
+       x="359.92755"
+       style="font-variant:normal;font-weight:normal;font-size:9.99987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text260">
+      <tspan
+         x="359.92755 365.44751 368.25748 373.77737 379.29733"
+         y="418.155"
+         id="tspan262">0.101</tspan>
+      <tspan
+         x="-18.991703 -12.331777 -6.8118706 -1.2919284 2.5580165 5.8879805 10.887904 16.407846 217.27533 222.79526 225.60522 231.12517 236.64511 242.16502 359.92856 365.44849 368.25848 373.77838 379.29831"
+         y="430.69788"
+         id="tspan264">Constant1.368*0.759</tspan>
+    </text>
+    <text
+       y="458.90302"
+       x="-18.993692"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text266">
+      <tspan
+         x="-18.993692 -11.250052 -7.3388615 -1.9664336 2.4084995 4.3159723 8.3601618 12.735105"
+         y="458.90302"
+         id="tspan268">McKelvey</tspan>
+    </text>
+    <text
+       y="458.90302"
+       x="18.636023"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP0074;-inkscape-font-specification:AdvP0074;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text270">
+      <tspan
+         x="18.636023"
+         y="458.90302"
+         id="tspan272">R</tspan>
+    </text>
+    <text
+       y="482.62622"
+       x="22.112841"
+       transform="scale(1.0607044,0.94276973)"
+       style="font-variant:normal;font-weight:normal;font-size:6.18669081px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text274">
+      <tspan
+         x="22.112841"
+         y="482.62622"
+         id="tspan276">2</tspan>
+    </text>
+    <text
+       y="458.90302"
+       x="28.557554"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP4C4E74;-inkscape-font-specification:AdvP4C4E74;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text278">
+      <tspan
+         x="28.557554"
+         y="458.90302"
+         id="tspan280">¼</tspan>
+    </text>
+    <text
+       y="458.90302"
+       x="35.289703"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text282">
+      <tspan
+         x="35.289703 41.596619 44.055336 48.885269"
+         y="458.90302"
+         id="tspan284">0.90</tspan>
+      <tspan
+         x="-18.993639 -14.618707 -10.243773 -7.3300591 -3.3322375 1.0426949 5.8726263 8.7863302 13.161273 17.991205 24.375986 28.287176 33.117111 36.030823 40.405758 43.319469 48.753143 52.664337 57.494263 60.407967 63.422302 67.797249 71.708435 74.622139 76.529625 82.484779 86.395973 88.303459 92.678383 96.047081 99.415779 101.32327 106.15319 110.52813"
+         y="468.89536"
+         id="tspan286">Percentagevoterscorrectlyclassifed</tspan>
+    </text>
+    <text
+       y="468.89539"
+       x="116.9278"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP4C4E74;-inkscape-font-specification:AdvP4C4E74;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text288">
+      <tspan
+         x="116.9278"
+         y="468.89539"
+         id="tspan290">¼</tspan>
+    </text>
+    <text
+       y="468.89539"
+       x="125.07743"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text292">
+      <tspan
+         x="125.07743 129.90736 134.73727 137.196"
+         y="468.89539"
+         id="tspan294">93.2</tspan>
+      <tspan
+         x="-18.993635 -14.618692 -10.243753 -7.3300495 -3.3322279 1.0427045 5.8726358 8.7863493 13.161284 17.991213 24.375998 27.289709 31.664644 36.494587 41.324509 45.235695 48.257034 50.164505 54.994431 61.863083 63.770561 70.579704 74.490898 76.398376 80.773323 84.142021 87.510719 89.41819 94.248131 98.287933 102.66287 105.57658 107.48406 112.31399 119.19314 123.56808 126.48179 129.39548 134.22542 139.17697 141.63568 145.54688 149.92181 157.21046 162.04041 166.95609 171.33102"
+         y="478.95862"
+         id="tspan296">Percentagereductioninclassifcationerror(Lambda)</tspan>
+    </text>
+    <text
+       y="478.95859"
+       x="175.25095"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP4C4E74;-inkscape-font-specification:AdvP4C4E74;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text298">
+      <tspan
+         x="175.25095"
+         y="478.95859"
+         id="tspan300">¼</tspan>
+    </text>
+    <text
+       y="478.95859"
+       x="183.47147"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text302">
+      <tspan
+         x="183.47147 188.30139 193.13133 195.59004 200.41998"
+         y="478.95859"
+         id="tspan304">86.2%</tspan>
+      <tspan
+         x="-16.938286"
+         y="488.95096"
+         id="tspan306">N</tspan>
+    </text>
+    <text
+       y="488.95096"
+       x="-9.639143"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP4C4E74;-inkscape-font-specification:AdvP4C4E74;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text308">
+      <tspan
+         x="-9.639143"
+         y="488.95096"
+         id="tspan310">¼</tspan>
+    </text>
+    <text
+       y="488.95096"
+       x="-1.4186431"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text312">
+      <tspan
+         x="-1.4186431 3.411288 8.2412195 13.071151"
+         y="488.95096"
+         id="tspan314">1736</tspan>
+      <tspan
+         x="-18.993639 -14.163709 -9.3337765 -4.5038452"
+         y="498.94333"
+         id="tspan316">***p</tspan>
+    </text>
+    <text
+       y="498.94333"
+       x="10.061193"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text322">
+      <tspan
+         x="10.061193 14.891124 17.34984 22.17977 27.009703 31.839632 36.351944 41.181885 46.01181"
+         y="498.94333"
+         id="tspan324">0.001;**p</tspan>
+    </text>
+    <text
+       y="498.94333"
+       x="60.518227"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text330">
+      <tspan
+         x="60.518227 65.348152 67.806862 72.636803 77.466721 81.99041 86.820343"
+         y="498.94333"
+         id="tspan332">0.01;*p</tspan>
+    </text>
+    <text
+       y="498.94333"
+       x="101.33727"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text338">
+      <tspan
+         x="101.33727 106.16721 108.62592 113.45585 118.28577"
+         y="498.94333"
+         id="tspan340">0.05,</tspan>
+    </text>
+    <text
+       y="525.09613"
+       x="115.78104"
+       transform="scale(1.0607044,0.94276973)"
+       style="font-variant:normal;font-weight:normal;font-size:6.18669081px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text342">
+      <tspan
+         x="115.78104"
+         y="525.09613"
+         id="tspan344">†</tspan>
+    </text>
+    <text
+       y="498.94235"
+       x="126.42368"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text346">
+      <tspan
+         x="126.42368"
+         y="498.94235"
+         id="tspan348">p</tspan>
+    </text>
+    <text
+       y="498.94235"
+       x="140.95108"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text354">
+      <tspan
+         x="140.95108 145.78102 148.23973 153.06967 157.89958 162.42328 167.2532 172.08315 176.45807 179.3718 182.28549 186.66045 188.5679 190.47539 194.85031 201.7531 204.66681 209.04175 212.41045 215.32416"
+         y="498.94235"
+         id="tspan356">0.10,one-tailedtest.</tspan>
+    </text>
+    <text
+       y="508.93472"
+       x="-18.993992"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP0074;-inkscape-font-specification:AdvP0074;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text358">
+      <tspan
+         x="-18.993992 -13.166575 -8.3366432 -5.5191841"
+         y="508.93472"
+         id="tspan360">Note</tspan>
+    </text>
+    <text
+       y="508.93472"
+       x="-1.0646201"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text362">
+      <tspan
+         x="-1.0646201 3.3995578 9.2269754 13.60192 18.431849 22.806784 27.636713 32.466648 36.841599 41.67152 46.697464 50.608643 54.983566 57.897278 59.804764 64.179695 69.009636 70.917099 77.3815 79.288986 84.680656 88.049362 91.960556 96.790474 99.704193 104.07911 108.90905 113.45112 117.36231 122.19224 125.10593 131.52136 135.43254 139.8075 144.18242 148.09363"
+         y="508.93472"
+         id="tspan364">:Dependentvariableisscored:voteLeave</tspan>
+    </text>
+    <text
+       y="508.93472"
+       x="153.99103"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP4C4E74;-inkscape-font-specification:AdvP4C4E74;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text366">
+      <tspan
+         x="153.99103"
+         y="508.93472"
+         id="tspan368">¼</tspan>
+    </text>
+    <text
+       y="508.93472"
+       x="162.21153"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text370">
+      <tspan
+         x="162.21153 167.04147 171.49515 175.40634 180.23628 183.14998 189.56538 194.39532 198.77028 206.14816 210.52309 212.43057"
+         y="508.93472"
+         id="tspan372">1,voteRemain</tspan>
+    </text>
+    <text
+       y="508.93472"
+       x="218.692"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP4C4E74;-inkscape-font-specification:AdvP4C4E74;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text374">
+      <tspan
+         x="218.692"
+         y="508.93472"
+         id="tspan376">¼</tspan>
+    </text>
+    <text
+       y="508.93472"
+       x="226.91248"
+       style="font-variant:normal;font-weight:normal;font-size:8.74987507px;font-family:AdvP10087B;-inkscape-font-specification:AdvP10087B;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text378">
+      <tspan
+         x="226.91248 231.74242"
+         y="508.93472"
+         id="tspan380">0.</tspan>
+    </text>
+  </g>
+</svg>
